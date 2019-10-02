@@ -1,6 +1,6 @@
 {
   "name": "@dunebird/test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a test",
   "main": "index.js",
   "scripts": {
